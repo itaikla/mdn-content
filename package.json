@@ -1,6 +1,6 @@
 {
   "name": "@mdn/content",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Content of https://developer.mozilla.org",
   "private": true,
   "homepage": "https://github.com/mdn/content#readme",
